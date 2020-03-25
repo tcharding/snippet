@@ -2,11 +2,12 @@ snippet
 =======
 
 The files in this repo are a brief display of the code I like to write i.e.,
-code I'm proud of.  For ease of reviewing some additional comments have been
-made to these files, for this reason I also link to the original files here.
+code I'm proud of. Some additional comments were added to `ethereum.rs` to give
+context, the other files are all reasonable self explanatory and are in their
+original form.
 
 Additionally, here is some context of _why_ I am proud of these snippets.  Apart
-for the fact that they its just nice clean code.
+for the fact that its just nice clean code.
 
 ## Hangman
 
