@@ -36,3 +36,20 @@ non-familiar language shows ones coding style because it is not tainted by
 conforming to the usual style of the language but rather the authors 'goto'
 coding style.  Secondly, Perl is often not that readable.  I am proud of this
 code because it is [arguably] readable.
+
+## Data
+
+File: `data.go`
+Original: Cannot link to original because it is on my GitHub account in a
+private repo at request of the company I currently work for - it was part of the
+hiring process I went through i.e., their coding challenge.
+
+### Reason for inclusion
+
+This file is in Golang, a language that I am reasonably familiar with - therefor
+no excuses for anything but idiomatic clean code :)
+
+I have included it because it is a fair representation of the style of Golang I
+like to write, it lints cleanly, and it is idiomatic Golang (at least to the
+best of my knowledge at the time of writing).
+
