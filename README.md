@@ -53,3 +53,19 @@ I have included it because it is a fair representation of the style of Golang I
 like to write, it lints cleanly, and it is idiomatic Golang (at least to the
 best of my knowledge at the time of writing).
 
+## Matching transactions (Ethereum)
+
+File: `ethereum.rs`
+Original: https://github.com/comit-network/comit-rs/blob/dev/cnd/src/btsieve/ethereum.rs
+
+This file is taken from the code base I currently am paid to work on.  It is a
+file that I almost completely re-wrote recently.  It is included for a couple of
+reasons; firstly it is in Rust, a language I very much enjoy to write. Secondly,
+and quite interestingly, the code violates some principles of clean code, namely
+there is some duplication (the `Generator` code) and also some of the functions
+are quite deeply nested (again, the `Generotor` code).  This code represents the
+core functionality of the tool we are writing, since joining the company this
+section of code was, in my opinion extremely smelly.  It took concerted effort
+on my part to convince the team to allocate time to this part of the code base.
+The result, while still complex, is something I am quite proud of.  The original
+code is in the git history for the interested.
