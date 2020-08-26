@@ -11,7 +11,7 @@ for the fact that its just nice clean code.
 
 ## Hangman
 
-File: `hangman.py`  
+File: `hangman.py`
 Original: https://github.com/tcharding/hangman/blob/master/hangman.py
 
 ### Reason for inclusion
@@ -25,7 +25,7 @@ and just for fun is a good representation of ones coding style.
 
 ## Leaking addresses
 
-File: `leaking_addresses.pl`  
+File: `leaking_addresses.pl`
 Original: Any Linux kernel tree under `scripts/leaking_addresses.pl`
 
 ### Reason for inclusion
@@ -40,15 +40,15 @@ code because it is [arguably] readable.
 
 ## Data
 
-File: `data.go`  
+File: `data.go`
 Original: Cannot link to original because it is on my GitHub account in a
 private repo at request of the company I currently work for - it was part of the
 hiring process I went through i.e., their coding challenge.
 
 ### Reason for inclusion
 
-This file is in Golang, a language that I am reasonably familiar with - therefor
-no excuses for anything but idiomatic clean code :)
+This file is in Golang, a language that I am reasonably familiar
+with - therefore no excuses for anything but idiomatic clean code :)
 
 I have included it because it is a fair representation of the style of Golang I
 like to write, it lints cleanly, and it is idiomatic Golang (at least to the
@@ -56,7 +56,7 @@ best of my knowledge at the time of writing).
 
 ## Matching transactions (Ethereum)
 
-File: `ethereum.rs`  
+File: `ethereum.rs`
 Original: https://github.com/comit-network/comit-rs/blob/dev/cnd/src/btsieve/ethereum.rs
 
 This file is taken from the code base I currently am paid to work on.  It is a
