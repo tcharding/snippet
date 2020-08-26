@@ -70,3 +70,27 @@ section of code was, in my opinion extremely smelly.  It took concerted effort
 on my part to convince the team to allocate time to this part of the code base.
 The result, while still complex, is something I am quite proud of.  The original
 code is in the git history for the interested.
+
+## Expiries
+
+File: `expiries.rs`
+Original: https://github.com/comit-network/comit-rs/blob/dev/comit/src/expiries.rs
+
+### Reason for inclusion
+
+This file is also taken from the codebase I am paid to work on, moreover I wrote this
+module entirely alone. The module was the output of a project to solve a problem we have
+known about for a few years but never gotten around to resolving. First I was required to
+write a document investigating the issue, this can be found here:
+
+https://github.com/comit-network/spikes/blob/master/0027-standardizing-comit-expiry-times.adoc
+
+Of note, I am not proud of this document. Writing English is hard, I have much to improve
+upon.
+
+The code however, is, in my opinion, reasonably clean. Its not perfect but in order to get
+the job done it is clean enough to be readable and maintainable.
+
+
+Enjoy,
+Tobin.
